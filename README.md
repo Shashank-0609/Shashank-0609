@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shashank E 👋
 
-<!--
-**Shashank-0609/Shashank-0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Frontend Dev | CSE Student
 
-Here are some ideas to get you started:
+I'm a 2nd-year Computer Science Engineering student passionate about web development. I love building clean and responsive websites using HTML & CSS, and I'm currently diving into JavaScript to bring interactivity to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 💻 HTML, CSS
+- 🎯 Currently Learning: JavaScript
+
+### 📚 DSA Practice
+I regularly solve Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/) using Java to strengthen my problem-solving skills.
+
+- 💡 Language: Java
+- ⚙️ Platforms: LeetCode,HackerRank
+
+> Working toward mastering core concepts like arrays, strings, recursion, sorting, stacks, and trees.
+
+---
+
+### 🚀 Projects So Far
+- ✅ Amazon Clone
+- ✅ Netflix Clone
+- ✅ Spotify Clone
+
+> More projects coming soon as I explore JavaScript and beyond!
+
+---
+
+### 📈 GitHub Stats
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-0609&show_icons=true&theme=radical)
+
+---
+
+### 📬 Let's Connect
+Feel free to check out my repos and follow along my web dev journey!
+
