@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Frontend Dev | CSE Student
 
-I'm a 2nd-year Computer Science Engineering student passionate about web development. I love building clean and responsive websites using HTML & CSS, and I'm currently diving into JavaScript to bring interactivity to life.
+I'm a 3rd-year Computer Science Engineering student passionate about web development. I love building clean and responsive websites using HTML & CSS, and I'm currently diving into JavaScript to bring interactivity to life.
 
 ---
 
