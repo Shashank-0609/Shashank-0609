@@ -1,22 +1,24 @@
 # Hi, I'm Shashank E 👋
 
-### 👨‍💻 Frontend Dev | CSE Student
+### 👨‍💻 Frontend Developer | CSE Student
 
-I'm a 3rd-year Computer Science Engineering student passionate about web development. I love building clean and responsive websites using HTML & CSS, and I'm currently diving into JavaScript to bring interactivity to life.
+I'm a 3rd-year Computer Science Engineering student passionate about web development. I love building clean, responsive websites and interactive web apps. I've completed learning **JavaScript**, and I'm continuously improving by building projects and exploring modern web technologies.
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 HTML, CSS
-- 🎯 Currently Learning: JavaScript
+- 💻 HTML, CSS, JavaScript
+- 🧪 Exploring: DOM Manipulation, API Integration, Async JS
+
+---
 
 ### 📚 DSA Practice
-I regularly solve Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/) using Java to strengthen my problem-solving skills.
+I regularly solve Data Structures & Algorithms problems using **Java** to sharpen my problem-solving skills.
 
 - 💡 Language: Java
-- ⚙️ Platforms: LeetCode,HackerRank
+- ⚙️ Platforms: LeetCode, HackerRank
 
-> Working toward mastering core concepts like arrays, strings, recursion, sorting, stacks, and trees.
+> Focused on mastering core concepts like arrays, strings, recursion, sorting, stacks, and trees.
 
 ---
 
@@ -24,8 +26,9 @@ I regularly solve Data Structures & Algorithms problems on [LeetCode](https://le
 - ✅ Amazon Clone
 - ✅ Netflix Clone
 - ✅ Spotify Clone
+- ✅ Speak Up Calculator *(voice-enabled calculator using JavaScript)*
 
-> More projects coming soon as I explore JavaScript and beyond!
+> More interactive projects coming soon as I explore JavaScript deeply!
 
 ---
 
@@ -35,5 +38,4 @@ I regularly solve Data Structures & Algorithms problems on [LeetCode](https://le
 ---
 
 ### 📬 Let's Connect
-Feel free to check out my repos and follow along my web dev journey!
-
+Feel free to explore my repositories and follow my journey as I build and learn in public 🚀
